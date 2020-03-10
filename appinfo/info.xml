@@ -11,7 +11,7 @@ More information is available in the text editor documentation.
 	<shipped>true</shipped>
 	<default_enable/>
 	<dependencies>
-		<nextcloud min-version="19" max-version="19" />
+		<nextcloud min-version="16" max-version="19" />
 	</dependencies>
 	<namespace>FilesTextEditor</namespace>
 </info>
